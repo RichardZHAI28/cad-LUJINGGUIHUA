@@ -1,0 +1,4 @@
+py_straight_skeleton 0.1.0
+https://github.com/iconbuild/py_straight_skeleton
+BSD-3-Clause; see LICENSE.
+Vendored core only. Python 3.8 changes: postponed annotations, typing aliases, concrete set construction, static version (no installed metadata required). Algorithm unchanged. Plotting omitted.

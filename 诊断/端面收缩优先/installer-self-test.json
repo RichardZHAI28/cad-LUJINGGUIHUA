@@ -1,0 +1,119 @@
+{
+  "ok": true,
+  "frozen": true,
+  "brands": [
+    "ELITE CS/ES",
+    "UR"
+  ],
+  "private_font_import": true,
+  "mtext_origin_200mm": true,
+  "drawing_check": {
+    "file": "C:/Users/Administrator/Desktop/空心实心数字字母模板字1118.dxf",
+    "coordinate_system": "wcs",
+    "weld_paths": 13,
+    "bounds": [
+      0.0,
+      -7.039273708665867,
+      2902.028339258073,
+      292.9607262913364
+    ]
+  },
+  "direct_text": [
+    {
+      "font": "DejaVu Sans",
+      "mode": "内外轮廓焊接",
+      "paths": 11
+    },
+    {
+      "font": "DejaVu Sans",
+      "mode": "中心线单道焊接",
+      "paths": 8
+    },
+    {
+      "font": "DejaVu Sans",
+      "mode": "实心排道填充",
+      "paths": 373
+    },
+    {
+      "font": "ZITI1",
+      "mode": "内外轮廓焊接",
+      "paths": 27
+    },
+    {
+      "font": "ZITI1",
+      "mode": "中心线单道焊接",
+      "paths": 27
+    },
+    {
+      "font": "ZITI1",
+      "mode": "实心排道填充",
+      "paths": 1103
+    },
+    {
+      "font": "ZITI2",
+      "mode": "内外轮廓焊接",
+      "paths": 26
+    },
+    {
+      "font": "ZITI2",
+      "mode": "中心线单道焊接",
+      "paths": 21
+    },
+    {
+      "font": "ZITI2",
+      "mode": "实心排道填充",
+      "paths": 791
+    }
+  ],
+  "three_point_frames": {
+    "ELITE CS/ES": [
+      400.0,
+      -200.0,
+      300.0,
+      0.24963294935287567,
+      -0.19739555984988066,
+      -3.538155541877298e-18
+    ],
+    "UR": [
+      400.0,
+      -200.0,
+      300.0,
+      0.24882015896967324,
+      -0.19636807914971577,
+      0.024638051113256447
+    ]
+  },
+  "unapplied_teaching_blocked": true,
+  "typed_source_export_and_start": true,
+  "typed_mm_ignores_cad_units": true,
+  "read_capture_ui_replay": true,
+  "brand_switch_discards_pending_capture": true,
+  "rounded_centerline_preserved": true,
+  "centerline_holes_preserved": true,
+  "elite_default": true,
+  "default_bead_mm": 8,
+  "default_point_spacing_mm": 5,
+  "run_controls_above_tabs": true,
+  "equal_offset_curved_caps": true,
+  "offset_collisions_first": true,
+  "all_boundary_caps_contract": true,
+  "all_boundary_font_caps": [
+    {
+      "font": "ZITI1",
+      "glyph": "M",
+      "bottom_top_inset_mm": [
+        39.99999999999999,
+        29.613801773556133
+      ]
+    },
+    {
+      "font": "ZITI2",
+      "glyph": "M",
+      "bottom_top_inset_mm": [
+        39.99999999999999,
+        33.271263413366285
+      ]
+    }
+  ],
+  "robot_network_used": false
+}

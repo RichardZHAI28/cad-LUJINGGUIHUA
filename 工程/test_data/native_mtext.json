@@ -1,0 +1,1337 @@
+{
+  "source": "AutoCAD 2016 ActiveX + EXPLODE, Arial, cap height 200, insert (0,500), width 1500",
+  "cases": [
+    {
+      "text": "X",
+      "attachment": 1,
+      "native_text": [
+        {
+          "text": "X",
+          "insert": [
+            -1.227830832196453,
+            300.0,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "X",
+      "attachment": 2,
+      "native_text": [
+        {
+          "text": "X",
+          "insert": [
+            -92.90586630286498,
+            300.0,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "X",
+      "attachment": 3,
+      "native_text": [
+        {
+          "text": "X",
+          "insert": [
+            -184.5839017735334,
+            300.0,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "X",
+      "attachment": 4,
+      "native_text": [
+        {
+          "text": "X",
+          "insert": [
+            -1.2278308321965596,
+            400.0,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "X",
+      "attachment": 5,
+      "native_text": [
+        {
+          "text": "X",
+          "insert": [
+            -92.90586630286543,
+            400.0,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "X",
+      "attachment": 6,
+      "native_text": [
+        {
+          "text": "X",
+          "insert": [
+            -184.5839017735343,
+            400.0,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "X",
+      "attachment": 7,
+      "native_text": [
+        {
+          "text": "X",
+          "insert": [
+            -1.2278308321965596,
+            500.0,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "X",
+      "attachment": 8,
+      "native_text": [
+        {
+          "text": "X",
+          "insert": [
+            -92.90586630286452,
+            500.0,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "X",
+      "attachment": 9,
+      "native_text": [
+        {
+          "text": "X",
+          "insert": [
+            -184.5839017735343,
+            500.0,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "ABCD",
+      "attachment": 1,
+      "native_text": [
+        {
+          "text": "ABCD",
+          "insert": [
+            0.0,
+            296.5893587994543,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "ABCD",
+      "attachment": 2,
+      "native_text": [
+        {
+          "text": "ABCD",
+          "insert": [
+            -380.6957708049122,
+            296.5893587994543,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "ABCD",
+      "attachment": 3,
+      "native_text": [
+        {
+          "text": "ABCD",
+          "insert": [
+            -761.3915416098243,
+            296.5893587994543,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "ABCD",
+      "attachment": 4,
+      "native_text": [
+        {
+          "text": "ABCD",
+          "insert": [
+            0.0,
+            400.0,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "ABCD",
+      "attachment": 5,
+      "native_text": [
+        {
+          "text": "ABCD",
+          "insert": [
+            -380.6957708049122,
+            400.0,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "ABCD",
+      "attachment": 6,
+      "native_text": [
+        {
+          "text": "ABCD",
+          "insert": [
+            -761.3915416098243,
+            400.0,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "ABCD",
+      "attachment": 7,
+      "native_text": [
+        {
+          "text": "ABCD",
+          "insert": [
+            0.0,
+            503.4106412005457,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "ABCD",
+      "attachment": 8,
+      "native_text": [
+        {
+          "text": "ABCD",
+          "insert": [
+            -380.6957708049122,
+            503.4106412005457,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "ABCD",
+      "attachment": 9,
+      "native_text": [
+        {
+          "text": "ABCD",
+          "insert": [
+            -761.3915416098243,
+            503.4106412005457,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "Q",
+      "attachment": 1,
+      "native_text": [
+        {
+          "text": "Q",
+          "insert": [
+            -12.005457025923533,
+            296.4529331514325,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "Q",
+      "attachment": 2,
+      "native_text": [
+        {
+          "text": "Q",
+          "insert": [
+            -109.54979536153405,
+            296.4529331514325,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "Q",
+      "attachment": 3,
+      "native_text": [
+        {
+          "text": "Q",
+          "insert": [
+            -207.0941336971373,
+            296.4529331514325,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "Q",
+      "attachment": 4,
+      "native_text": [
+        {
+          "text": "Q",
+          "insert": [
+            -12.005457025923533,
+            406.0027285129604,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "Q",
+      "attachment": 5,
+      "native_text": [
+        {
+          "text": "Q",
+          "insert": [
+            -109.54979536153405,
+            406.0027285129604,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "Q",
+      "attachment": 6,
+      "native_text": [
+        {
+          "text": "Q",
+          "insert": [
+            -207.0941336971373,
+            406.0027285129604,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "Q",
+      "attachment": 7,
+      "native_text": [
+        {
+          "text": "Q",
+          "insert": [
+            -12.005457025923533,
+            515.5525238744884,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "Q",
+      "attachment": 8,
+      "native_text": [
+        {
+          "text": "Q",
+          "insert": [
+            -109.54979536153405,
+            515.5525238744884,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "Q",
+      "attachment": 9,
+      "native_text": [
+        {
+          "text": "Q",
+          "insert": [
+            -207.0941336971373,
+            515.5525238744884,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "p",
+      "attachment": 1,
+      "native_text": [
+        {
+          "text": "p",
+          "insert": [
+            -18.417462482946576,
+            300.0,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "p",
+      "attachment": 2,
+      "native_text": [
+        {
+          "text": "p",
+          "insert": [
+            -81.30968622100772,
+            300.0,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "p",
+      "attachment": 3,
+      "native_text": [
+        {
+          "text": "p",
+          "insert": [
+            -144.20190995906887,
+            300.0,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "p",
+      "attachment": 4,
+      "native_text": [
+        {
+          "text": "p",
+          "insert": [
+            -18.417462482946576,
+            427.76261937244203,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "p",
+      "attachment": 5,
+      "native_text": [
+        {
+          "text": "p",
+          "insert": [
+            -81.30968622100772,
+            427.76261937244203,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "p",
+      "attachment": 6,
+      "native_text": [
+        {
+          "text": "p",
+          "insert": [
+            -144.20190995906887,
+            427.76261937244203,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "p",
+      "attachment": 7,
+      "native_text": [
+        {
+          "text": "p",
+          "insert": [
+            -18.417462482946576,
+            555.5252387448841,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "p",
+      "attachment": 8,
+      "native_text": [
+        {
+          "text": "p",
+          "insert": [
+            -81.30968622100772,
+            555.5252387448841,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "p",
+      "attachment": 9,
+      "native_text": [
+        {
+          "text": "p",
+          "insert": [
+            -144.20190995906887,
+            555.5252387448841,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "ABCD\\PQp",
+      "attachment": 1,
+      "native_text": [
+        {
+          "text": "ABCD",
+          "insert": [
+            0.0,
+            296.5893587994543,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        },
+        {
+          "text": "Qp",
+          "insert": [
+            -12.005457025923533,
+            -40.29104138244659,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "ABCD\\PQp",
+      "attachment": 2,
+      "native_text": [
+        {
+          "text": "ABCD",
+          "insert": [
+            -380.6957708049158,
+            296.5893587994543,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        },
+        {
+          "text": "Qp",
+          "insert": [
+            -186.76671214189264,
+            -40.29104138244659,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "ABCD\\PQp",
+      "attachment": 3,
+      "native_text": [
+        {
+          "text": "ABCD",
+          "insert": [
+            -761.3915416098171,
+            296.5893587994543,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        },
+        {
+          "text": "Qp",
+          "insert": [
+            -361.5279672578472,
+            -40.29104138244659,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "ABCD\\PQp",
+      "attachment": 4,
+      "native_text": [
+        {
+          "text": "ABCD",
+          "insert": [
+            0.0,
+            594.4974988631196,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        },
+        {
+          "text": "Qp",
+          "insert": [
+            -12.005457025923533,
+            257.61709868121875,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "ABCD\\PQp",
+      "attachment": 5,
+      "native_text": [
+        {
+          "text": "ABCD",
+          "insert": [
+            -380.6957708049158,
+            594.4974988631196,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        },
+        {
+          "text": "Qp",
+          "insert": [
+            -186.76671214189264,
+            257.61709868121875,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "ABCD\\PQp",
+      "attachment": 6,
+      "native_text": [
+        {
+          "text": "ABCD",
+          "insert": [
+            -761.3915416098171,
+            594.4974988631196,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        },
+        {
+          "text": "Qp",
+          "insert": [
+            -361.5279672578472,
+            257.61709868121875,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "ABCD\\PQp",
+      "attachment": 7,
+      "native_text": [
+        {
+          "text": "ABCD",
+          "insert": [
+            0.0,
+            892.405638926785,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        },
+        {
+          "text": "Qp",
+          "insert": [
+            -12.005457025923533,
+            555.5252387448841,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "ABCD\\PQp",
+      "attachment": 8,
+      "native_text": [
+        {
+          "text": "ABCD",
+          "insert": [
+            -380.6957708049158,
+            892.405638926785,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        },
+        {
+          "text": "Qp",
+          "insert": [
+            -186.76671214189264,
+            555.5252387448841,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "ABCD\\PQp",
+      "attachment": 9,
+      "native_text": [
+        {
+          "text": "ABCD",
+          "insert": [
+            -761.3915416098171,
+            892.405638926785,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        },
+        {
+          "text": "Qp",
+          "insert": [
+            -361.5279672578472,
+            555.5252387448841,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "\\PABCD",
+      "attachment": 1,
+      "native_text": [
+        {
+          "text": "ABCD",
+          "insert": [
+            0.0,
+            -36.74397453387908,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "\\PABCD",
+      "attachment": 2,
+      "native_text": [
+        {
+          "text": "ABCD",
+          "insert": [
+            -380.6957708049158,
+            -36.74397453387908,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "\\PABCD",
+      "attachment": 3,
+      "native_text": [
+        {
+          "text": "ABCD",
+          "insert": [
+            -761.3915416098171,
+            -36.74397453387908,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "\\PABCD",
+      "attachment": 4,
+      "native_text": [
+        {
+          "text": "ABCD",
+          "insert": [
+            0.0,
+            233.33333333333334,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "\\PABCD",
+      "attachment": 5,
+      "native_text": [
+        {
+          "text": "ABCD",
+          "insert": [
+            -380.6957708049158,
+            233.33333333333334,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "\\PABCD",
+      "attachment": 6,
+      "native_text": [
+        {
+          "text": "ABCD",
+          "insert": [
+            -761.3915416098171,
+            233.33333333333334,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "\\PABCD",
+      "attachment": 7,
+      "native_text": [
+        {
+          "text": "ABCD",
+          "insert": [
+            0.0,
+            503.4106412005458,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "\\PABCD",
+      "attachment": 8,
+      "native_text": [
+        {
+          "text": "ABCD",
+          "insert": [
+            -380.6957708049158,
+            503.4106412005458,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "\\PABCD",
+      "attachment": 9,
+      "native_text": [
+        {
+          "text": "ABCD",
+          "insert": [
+            -761.3915416098171,
+            503.4106412005458,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "ABCD\\P",
+      "attachment": 1,
+      "native_text": [
+        {
+          "text": "ABCD",
+          "insert": [
+            0.0,
+            296.5893587994543,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "ABCD\\P",
+      "attachment": 2,
+      "native_text": [
+        {
+          "text": "ABCD",
+          "insert": [
+            -380.6957708049158,
+            296.5893587994543,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "ABCD\\P",
+      "attachment": 3,
+      "native_text": [
+        {
+          "text": "ABCD",
+          "insert": [
+            -761.3915416098171,
+            296.5893587994543,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "ABCD\\P",
+      "attachment": 4,
+      "native_text": [
+        {
+          "text": "ABCD",
+          "insert": [
+            0.0,
+            400.0,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "ABCD\\P",
+      "attachment": 5,
+      "native_text": [
+        {
+          "text": "ABCD",
+          "insert": [
+            -380.6957708049158,
+            400.0,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "ABCD\\P",
+      "attachment": 6,
+      "native_text": [
+        {
+          "text": "ABCD",
+          "insert": [
+            -761.3915416098171,
+            400.0,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "ABCD\\P",
+      "attachment": 7,
+      "native_text": [
+        {
+          "text": "ABCD",
+          "insert": [
+            0.0,
+            503.4106412005457,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "ABCD\\P",
+      "attachment": 8,
+      "native_text": [
+        {
+          "text": "ABCD",
+          "insert": [
+            -380.6957708049158,
+            503.4106412005457,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "ABCD\\P",
+      "attachment": 9,
+      "native_text": [
+        {
+          "text": "ABCD",
+          "insert": [
+            -761.3915416098171,
+            503.4106412005457,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "AB\\H0.5x;CD",
+      "attachment": 1,
+      "native_text": [
+        {
+          "text": "AB",
+          "insert": [
+            0.0,
+            300.0,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        },
+        {
+          "text": "CD",
+          "insert": [
+            372.7148703956336,
+            300.0,
+            0
+          ],
+          "height": 100.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "AB\\H0.5x;CD",
+      "attachment": 2,
+      "native_text": [
+        {
+          "text": "AB",
+          "insert": [
+            -283.52660300135904,
+            300.0,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        },
+        {
+          "text": "CD",
+          "insert": [
+            89.18826739427459,
+            300.0,
+            0
+          ],
+          "height": 100.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "AB\\H0.5x;CD",
+      "attachment": 3,
+      "native_text": [
+        {
+          "text": "AB",
+          "insert": [
+            -567.0532060027326,
+            300.0,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        },
+        {
+          "text": "CD",
+          "insert": [
+            -194.338335607099,
+            300.0,
+            0
+          ],
+          "height": 100.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "AB\\H0.5x;CD",
+      "attachment": 4,
+      "native_text": [
+        {
+          "text": "AB",
+          "insert": [
+            0.0,
+            400.85266030013645,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        },
+        {
+          "text": "CD",
+          "insert": [
+            372.7148703956336,
+            400.85266030013645,
+            0
+          ],
+          "height": 100.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "AB\\H0.5x;CD",
+      "attachment": 5,
+      "native_text": [
+        {
+          "text": "AB",
+          "insert": [
+            -283.5266030013736,
+            400.85266030013645,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        },
+        {
+          "text": "CD",
+          "insert": [
+            89.18826739426004,
+            400.85266030013645,
+            0
+          ],
+          "height": 100.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "AB\\H0.5x;CD",
+      "attachment": 6,
+      "native_text": [
+        {
+          "text": "AB",
+          "insert": [
+            -567.0532060027181,
+            400.85266030013645,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        },
+        {
+          "text": "CD",
+          "insert": [
+            -194.33833560708445,
+            400.85266030013645,
+            0
+          ],
+          "height": 100.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "AB\\H0.5x;CD",
+      "attachment": 7,
+      "native_text": [
+        {
+          "text": "AB",
+          "insert": [
+            0.0,
+            501.7053206002729,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        },
+        {
+          "text": "CD",
+          "insert": [
+            372.7148703956336,
+            501.7053206002729,
+            0
+          ],
+          "height": 100.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "AB\\H0.5x;CD",
+      "attachment": 8,
+      "native_text": [
+        {
+          "text": "AB",
+          "insert": [
+            -283.5266030013736,
+            501.7053206002729,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        },
+        {
+          "text": "CD",
+          "insert": [
+            89.18826739426004,
+            501.7053206002729,
+            0
+          ],
+          "height": 100.0,
+          "width": 1.0
+        }
+      ]
+    },
+    {
+      "text": "AB\\H0.5x;CD",
+      "attachment": 9,
+      "native_text": [
+        {
+          "text": "AB",
+          "insert": [
+            -567.0532060027181,
+            501.7053206002729,
+            0
+          ],
+          "height": 200.0,
+          "width": 1.0
+        },
+        {
+          "text": "CD",
+          "insert": [
+            -194.33833560708445,
+            501.7053206002729,
+            0
+          ],
+          "height": 100.0,
+          "width": 1.0
+        }
+      ]
+    }
+  ]
+}

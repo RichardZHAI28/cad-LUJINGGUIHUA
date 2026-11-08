@@ -1,0 +1,2 @@
+404f1eb20c3a7912b387b7e512a9ac684eceedeb4c281f26fc4dd04fdacf24b5  CadWeldPlanner-Setup.exe
+4622923a4b9f9094fa312dab2fb2b8dbd550096d6c252f5cc003fea6fd1b8fe5  CadWeldPlanner-Windows-x64.zip

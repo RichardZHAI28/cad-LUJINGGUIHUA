@@ -1,0 +1,132 @@
+{
+  "ok": true,
+  "frozen_self_test": true,
+  "release_and_extracted_core_match": true,
+  "icon06_preserved": true,
+  "font_valid_cases": 534,
+  "font_policy_rejected": 16,
+  "max_repeated_length_mm": 8.526512829121202e-14,
+  "user_drawing_and_profiles_unchanged": true,
+  "robot_network_used": false,
+  "timing": {
+    "cases": 18,
+    "before_s": 15.681431499999993,
+    "after_s": 7.885869499999998,
+    "max_cold_glyph_s": 1.5471685999999991,
+    "max_cached_s": 7.210000000057448e-05,
+    "paths": [
+      [
+        "ZITI1",
+        "M",
+        1,
+        1
+      ],
+      [
+        "ZITI1",
+        "N",
+        1,
+        1
+      ],
+      [
+        "ZITI1",
+        "G",
+        1,
+        1
+      ],
+      [
+        "ZITI1",
+        "K",
+        3,
+        3
+      ],
+      [
+        "ZITI1",
+        "C",
+        1,
+        1
+      ],
+      [
+        "ZITI1",
+        "S",
+        1,
+        1
+      ],
+      [
+        "ZITI2",
+        "M",
+        1,
+        2
+      ],
+      [
+        "ZITI2",
+        "N",
+        1,
+        1
+      ],
+      [
+        "ZITI2",
+        "A",
+        2,
+        2
+      ],
+      [
+        "ZITI2",
+        "C",
+        1,
+        1
+      ],
+      [
+        "ZITI2",
+        "K",
+        3,
+        3
+      ],
+      [
+        "ZITI2",
+        "S",
+        1,
+        1
+      ],
+      [
+        "Arial",
+        "M",
+        1,
+        1
+      ],
+      [
+        "Arial",
+        "N",
+        1,
+        1
+      ],
+      [
+        "Arial",
+        "A",
+        2,
+        2
+      ],
+      [
+        "Arial",
+        "C",
+        1,
+        1
+      ],
+      [
+        "Arial",
+        "K",
+        3,
+        3
+      ],
+      [
+        "Arial",
+        "S",
+        1,
+        1
+      ]
+    ]
+  },
+  "sha256": {
+    "CadWeldPlanner-Setup.exe": "404f1eb20c3a7912b387b7e512a9ac684eceedeb4c281f26fc4dd04fdacf24b5",
+    "CadWeldPlanner-Windows-x64.zip": "4622923a4b9f9094fa312dab2fb2b8dbd550096d6c252f5cc003fea6fd1b8fe5"
+  }
+}
